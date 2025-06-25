@@ -1,1 +1,1 @@
-# Insurance-Claim-Prediction
+# Insurance-Claim-Fraud-Detection
