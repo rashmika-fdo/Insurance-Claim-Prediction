@@ -1,17 +1,13 @@
 
 beautifulsoup4==4.13.4
-
 contourpy==1.3.2
-
 gitdb==4.0.12
 GitPython==3.1.44
-
 imbalanced-learn==0.13.0
 ipykernel==6.29.5
 ipython==9.3.0
 ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.7
-
 joblib==1.5.1
 json5==0.12.0
 jsonpointer==3.0.0
@@ -33,20 +29,14 @@ kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.3
 matplotlib-inline==0.1.7
-
 notebook==7.4.3
 notebook_shim==0.2.4
 numpy==2.3.0
-
 pandas==2.3.0
-
 plotly==6.1.2
-
-
 scikit-learn==1.6.1
 scipy==1.15.3
 seaborn==0.13.2
-
 sklearn-compat==0.1.3
 
 streamlit==1.46.0
